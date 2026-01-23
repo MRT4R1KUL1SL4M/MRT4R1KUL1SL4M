@@ -2,9 +2,7 @@
 <h3 align="center">Research Enthusiast | Programmer</h3>
 I am passionate about exploring the intersection of human behavior and technology. As a Research Enthusiast, I love diving deep into data and insights, while as a Programmer, I enjoy building tools and solutions that make an impact.
 
-🔭 Current focus: Researching [Topic Name] and Web Development.
-
-💻 Tech Stack: HTML, CSS, JavaScript (and any other languages you use).
+🔭 Current focus: Researching Sentiment Analysis and Web Development.
 
 🌱 Learning: Advanced data analysis and new frameworks.
 
