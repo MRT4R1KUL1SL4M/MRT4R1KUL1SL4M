@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md. Tarikul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Research Enthusiast | Programmer</h3>
+I am passionate about exploring the intersection of human behavior and technology. As a Research Enthusiast, I love diving deep into data and insights, while as a Programmer, I enjoy building tools and solutions that make an impact.
+
+🔭 Current focus: Researching [Topic Name] and Web Development.
+
+💻 Tech Stack: HTML, CSS, JavaScript (and any other languages you use).
+
+🌱 Learning: Advanced data analysis and new frameworks.
+
+🤝 Open to: Collaborating on research-driven tech projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrt4r1kul1sl4m&label=Profile%20views&color=0e75b6&style=flat" alt="mrt4r1kul1sl4m" /> </p>
 
