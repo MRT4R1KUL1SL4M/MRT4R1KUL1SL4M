@@ -23,7 +23,3 @@ I am passionate about exploring the intersection of human behavior and technolog
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrt4r1kul1sl4m&show_icons=true&locale=en&layout=compact" alt="mrt4r1kul1sl4m" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrt4r1kul1sl4m&show_icons=true&locale=en" alt="mrt4r1kul1sl4m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrt4r1kul1sl4m&" alt="mrt4r1kul1sl4m" /></p>
