@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Tarikul Islam</h1>
+<h1 align="center">Hi!, I'm Md. Tarikul Islam</h1>
 <h3 align="center">Research Enthusiast | Programmer</h3>
 I am passionate about exploring the intersection of human behavior and technology. As a Research Enthusiast, I love diving deep into data and insights, while as a Programmer, I enjoy building tools and solutions that make an impact.
 
