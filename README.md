@@ -10,9 +10,9 @@ I am passionate about exploring the intersection of human behavior and technolog
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrt4r1kul1sl4m&label=Profile%20views&color=0e75b6&style=flat" alt="mrt4r1kul1sl4m" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mrt4r1kul1sl4m.github.io/](https://mrt4r1kul1sl4m.github.io/)
+- All of my projects are available at [https://mrt4r1kul1sl4m.github.io/Portfolio/](https://mrt4r1kul1sl4m.github.io/Portfolio/)
 
-- 📫 How to reach me **mrtarikulislamtarek@gmail.com**
+- How to reach me **mrtarikulislamtarek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
