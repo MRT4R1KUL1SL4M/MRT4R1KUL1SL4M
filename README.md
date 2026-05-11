@@ -19,10 +19,11 @@ As a <b>Programmer</b>, I build scalable and impactful applications.
 ---
 
 ### 🚨 Automated Detection of Fake Job Advertisements in Bangladesh via Machine Learning Approaches
-- Proposing a machine learning framework to detect fraudulent job postings  
-- Focused on real-world datasets within the Bangladesh job market  
-- Impact: Enhancing job security and reducing online recruitment fraud  
-- Status: 🟡 Submitted  
+- Research focused on detecting fraudulent job postings using machine learning techniques  
+- Built and evaluated predictive models on Bangladesh-based recruitment datasets  
+- Aimed at improving online job security and reducing recruitment scams  
+- 🏆 Accepted at the ECCT Conference and published in a Taylor & Francis Book Series  
+- Status: 🟢 Accepted & Published  
 
 ---
 
