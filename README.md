@@ -1,8 +1,12 @@
 <div align="center">
 
-  # Hi 👋, I'm Md. Tarikul Islam
+  # 🔬 Md. Tarikul Islam
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=700&height=55&lines=AI+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Medical+Imaging+%26+XAI+Specialist+%F0%A9%B4;Full-Stack+Software+Architect+%E2%9A%A1;Data-Driven+Problem+Solver+%F0%9F%93%88)](https://git.io/typing-svg)
+  <h3>AI & Machine Learning Researcher | Full-Stack Software Engineer</h3>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F0FF&center=true&vcenter=true&random=false&width=780&height=55&lines=%F0%9F%A7%A0+Hybrid+Deep+Learning+%26+Explainable+AI+(XAI)+Specialist;%F0%A9%B4+Medical+CT+Scan+Image+Analytics+%26+Renal+Diagnostics;%F0%9F%9A%97+Computer+Vision+for+Smart+Mobility+%26+Accident+Prevention;%E2%9A%A1+Full-Stack+Architect+%7C+Django+%2B+Modern+JS+%2B+Data+Pipelines;%F0%9F%93%88+Behavioral+Data+Science+%26+NLP+Sentiment+Intelligence)](https://git.io/typing-svg)
+
+  <br/>
 
   <p align="center">
     <a href="https://mrt4r1kul1sl4m.github.io/Portfolio/" target="_blank">
@@ -14,32 +18,37 @@
     <a href="mailto:mrtarikulislamtarek@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://fb.com/mrt4r1kul" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
   </p>
-
-  ---
 
 </div>
 
-## 📌 Executive Bio & Research Vision
+---
 
-> *"Bridging **Hybrid Deep Learning**, **Explainable AI (XAI)**, and **Full-Stack Software Architecture** to create interpretable, scalable computational systems for medical diagnosis, intelligent mobility, and digital safety."*
+## ⚡ Executive Summary & Research Manifesto
 
-<table border="0">
+> *"Driven by the vision of transparent, interpretable, and scalable AI. My research focuses on developing trustworthy computational frameworks—ranging from Explainable AI (XAI) in medical diagnostic imaging to intelligent transport safety and cyber-fraud detection—backed by robust full-stack engineering."*
+
+<br/>
+
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Medical Imaging & Explainable AI (XAI)</h3>
+      <h3>🏥 AI in Healthcare & Medical Imaging</h3>
       <ul>
-        <li><b>Renal Abnormality Detection:</b> Multi-class CT scan classification (Normal, Cyst, Stone, Tumor) using hybrid DL & Grad-CAM/SHAP interpretability.</li>
-        <li><b>Cardiovascular Diagnostics:</b> Interpretable AI frameworks for automated heart disease risk assessment & decision support.</li>
-        <li><b>Trustworthy AI:</b> Integrating clinical explainability into deep neural network architectures.</li>
+        <li><b>Renal Abnormalities Detection:</b> Hybrid Deep Learning & XAI (Grad-CAM/SHAP) for multi-class CT scan diagnosis (Normal, Cyst, Stone, Tumor).</li>
+        <li><b>Cardiovascular Diagnostics:</b> Interpretable AI frameworks for automated clinical decision support in heart disease detection.</li>
+        <li><b>Clinical Interpretability:</b> Fusing CNNs/Vision Transformers with heatmaps for trustworthy medical AI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Smart Mobility & AI Security</h3>
+      <h3>🚗 Smart Systems & Cyber Security</h3>
       <ul>
-        <li><b>Vehicle Accident Prevention:</b> Hybrid AI architectures engineered for Bangladesh road traffic conditions.</li>
-        <li><b>Anti-Scam Intelligence:</b> Automated machine learning detection of fraudulent job advertisements.</li>
-        <li><b>Scalable Engineering:</b> Production-ready web systems powered by Python, Django, and modern frontend stacks.</li>
+        <li><b>Vehicle Accident Prevention:</b> Hybrid AI architectures engineered for heterogeneous traffic & road safety in Bangladesh.</li>
+        <li><b>Anti-Scam Intelligence:</b> Automated machine learning classification to combat online recruitment fraud (Taylor & Francis published).</li>
+        <li><b>Full-Stack Engineering:</b> Designing production-grade Web APIs, Django backend architectures, and modern UIs.</li>
       </ul>
     </td>
   </tr>
@@ -47,23 +56,23 @@
 
 ---
 
-## 🔬 Featured Research Portfolio & Publications
+## 🔬 Featured Research Portfolio & Working Papers
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <h3>🩺 1. Automated Detection and Classification of Renal Abnormalities using a Hybrid Deep Learning Framework and XAI</h3>
       <p>
-        <b>Status:</b> 🟡 <code>Active Research / In Development</code> &nbsp;|&nbsp; 
+        <img src="https://img.shields.io/badge/Status-🟡_Active_Research-FFD700?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Medical_Imaging-FF007F?style=flat-square&logo=medical" />
-        <img src="https://img.shields.io/badge/Architecture-Hybrid_DL_%2B_XAI-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Modality-CT_Scan_Analysis-7000FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Hybrid_DL_%2B_Grad--CAM_%2B_SHAP-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modality-Renal_CT_Scans-7000FF?style=flat-square" />
       </p>
       <ul>
-        <li><b>Objective:</b> Developing an automated pipeline for CT scan image classification to detect <b>Normal</b> kidney tissue, <b>Cyst</b>, <b>Stone</b>, and <b>Tumor</b>.</li>
-        <li><b>Innovation:</b> Combining deep convolutional neural networks with <b>Explainable AI (XAI)</b> visual attribution maps to provide transparent, interpretable diagnostic heatmaps for radiologists.</li>
+        <li><b>Scope:</b> Automated classification of kidney CT scan images to detect 4 distinct conditions: <code>Normal</code>, <code>Cyst</code>, <code>Stone</code>, and <code>Tumor</code>.</li>
+        <li><b>Methodology:</b> Deep Convolutional Neural Networks integrated with <b>Explainable AI (XAI)</b> visual attribution maps to generate radiology-grade interpretable diagnostic heatmaps.</li>
       </ul>
     </td>
   </tr>
@@ -71,14 +80,14 @@
     <td>
       <h3>🚗 2. A Hybrid AI-Based Architecture for Vehicle Safety and Accident Prevention in Bangladesh</h3>
       <p>
-        <b>Status:</b> 🟡 <code>Pending / Working Paper</code> &nbsp;|&nbsp; 
+        <img src="https://img.shields.io/badge/Status-🟡_Working_Paper-FF9800?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Smart_Transportation-00E676?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Accident_Prevention-FFD700?style=flat-square" />
-        <img src="https://img.shields.io/badge/Region-Bangladesh_Road_Safety-FF3D00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Real--time_Accident_Prevention-FF3D00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Region-Bangladesh_Road_Safety-00BCD4?style=flat-square" />
       </p>
       <ul>
-        <li><b>Objective:</b> Designing a hybrid AI safety architecture tailored to real-time accident prevention in high-density, heterogeneous traffic in Bangladesh.</li>
-        <li><b>Key Components:</b> Computer vision perception, driver risk monitoring, and predictive collision warning models.</li>
+        <li><b>Scope:</b> Designing a low-latency, hybrid AI architecture tailored for collision avoidance and driver risk assessment in complex road environments across Bangladesh.</li>
+        <li><b>Methodology:</b> Computer Vision perception pipelines, obstacle tracking algorithms, and real-time hazard notification systems.</li>
       </ul>
     </td>
   </tr>
@@ -86,14 +95,14 @@
     <td>
       <h3>🫀 3. An Interpretable Hybrid Artificial Intelligence Framework for Automated Cardiovascular Disease Diagnosis</h3>
       <p>
-        <b>Status:</b> 🟡 <code>Pending / Working Paper</code> &nbsp;|&nbsp; 
+        <img src="https://img.shields.io/badge/Status-🟡_Working_Paper-FF9800?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Cardiovascular_AI-E91E63?style=flat-square" />
         <img src="https://img.shields.io/badge/Approach-Interpretable_AI-9C27B0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Application-Clinical_Decision_Support-2196F3?style=flat-square" />
+        <img src="https://img.shields.io/badge/System-Clinical_Decision_Support-2196F3?style=flat-square" />
       </p>
       <ul>
-        <li><b>Objective:</b> Building a trustworthy clinical decision support model for early cardiovascular disease detection with transparent feature importance attribution.</li>
-        <li><b>Impact:</b> Assisting healthcare practitioners with high-accuracy, interpretable diagnostic recommendations.</li>
+        <li><b>Scope:</b> Developing an interpretable AI model for early diagnosis of cardiovascular conditions with clear feature importance attribution for clinicians.</li>
+        <li><b>Methodology:</b> Hybrid Machine Learning algorithms combined with feature extraction pipelines for high diagnostic accuracy and clinical transparency.</li>
       </ul>
     </td>
   </tr>
@@ -101,13 +110,13 @@
     <td>
       <h3>🚨 4. Automated Detection of Fake Job Advertisements in Bangladesh via Machine Learning Approaches</h3>
       <p>
-        <b>Status:</b> 🟢 <code>Accepted & Published</code> &nbsp;|&nbsp; 
-        <img src="https://img.shields.io/badge/Publisher-Taylor_%26_Francis_Book_Series-00E676?style=flat-square&logo=book" />
+        <img src="https://img.shields.io/badge/Status-🟢_Accepted_%26_Published-00E676?style=flat-square" />
+        <img src="https://img.shields.io/badge/Publisher-Taylor_%26_Francis_Book_Series-0A66C2?style=flat-square&logo=book" />
         <img src="https://img.shields.io/badge/Conference-ECCT-00F0FF?style=flat-square&logo=google-scholar" />
       </p>
       <ul>
-        <li><b>Research Outcome:</b> Engineered machine learning classification models to detect recruitment scams in Bangladesh.</li>
-        <li><b>Publication:</b> Presented at the <b>ECCT Conference</b> and published in a peer-reviewed <b>Taylor & Francis Book Series</b>.</li>
+        <li><b>Scope:</b> Machine learning framework designed to detect fraudulent job postings and recruitment scams in Bangladesh datasets.</li>
+        <li><b>Outcome:</b> Presented at the <b>ECCT Conference</b> and published in a peer-reviewed <b>Taylor & Francis Book Series</b>.</li>
       </ul>
     </td>
   </tr>
@@ -115,12 +124,12 @@
     <td>
       <h3>🧠 5. Sentiment Analysis & Classification Optimization using Machine Learning</h3>
       <p>
-        <b>Status:</b> 🟡 <code>Submitted / Under Review</code> &nbsp;|&nbsp; 
+        <img src="https://img.shields.io/badge/Status-🟡_Submitted-FFC107?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-NLP_%26_Text_Mining-7000FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-Python_%7C_Scikit--Learn-FFD700?style=flat-square" />
       </p>
       <ul>
-        <li><b>Focus:</b> Advanced text preprocessing, custom feature engineering, and hyperparameter optimization for multi-class sentiment analysis.</li>
+        <li><b>Scope:</b> Optimization of text classification algorithms, feature engineering techniques, and hyperparameter tuning for sentiment extraction.</li>
       </ul>
     </td>
   </tr>
@@ -128,7 +137,7 @@
 
 ---
 
-## 🛠️ Technological Ecosystem & Core Competencies
+## 🛠️ Technological Ecosystem & Skill Matrix
 
 <div align="center">
 
@@ -140,15 +149,17 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### ⚙️ Backend Engineering & Database Systems
+### ⚙️ Backend Architecture & Database Systems
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Architecture
@@ -160,7 +171,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧩 Core Programming Languages & Workflow
+### 🧩 Core Languages & Developer Tools
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -175,12 +186,12 @@
 
 ---
 
-## 📊 GitHub Analytics & Engineering Metrics
+## 📈 GitHub Analytics & Trophy Wall
 
 <div align="center">
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrt4r1kul1sl4m&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrt4r1kul1sl4m&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
   </p>
 
   <br/>
@@ -199,6 +210,10 @@
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrt4r1kul1sl4m&theme=tokyonight&hide_border=false" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrt4r1kul1sl4m&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -231,6 +246,8 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=mrt4r1kul1sl4m&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mrt4r1kul1sl4m&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  </p>
 
 </div>
