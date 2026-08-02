@@ -2,9 +2,9 @@
 
   # 🔬 Md. Tarikul Islam
 
-  <h3>AI & Machine Learning Researcher | Full-Stack Software Engineer</h3>
+  <h3>AI & Computer Vision Researcher | Explainable AI (XAI) Scholar | Full-Stack Architect</h3>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F0FF&center=true&vcenter=true&random=false&width=780&height=55&lines=%F0%9F%A7%A0+Hybrid+Deep+Learning+%26+Explainable+AI+(XAI)+Specialist;%F0%A9%B4+Medical+CT+Scan+Image+Analytics+%26+Renal+Diagnostics;%F0%9F%9A%97+Computer+Vision+for+Smart+Mobility+%26+Accident+Prevention;%E2%9A%A1+Full-Stack+Architect+%7C+Django+%2B+Modern+JS+%2B+Data+Pipelines;%F0%9F%93%88+Behavioral+Data+Science+%26+NLP+Sentiment+Intelligence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vcenter=true&random=false&width=650&height=45&lines=AI+%26+Medical+Vision+Researcher+%F0%9F%94%AC;Explainable+AI+(XAI)+Specialist+%F0%9F%A7%A0;Deep+Learning+%26+Renal+Analytics+%F0%A9%B4;Smart+Transportation+%26+ITS+Safety+%F0%9F%9A%97;Full-Stack+Architect+%26+Data+Scholar+%E2%9A%A1)](https://git.io/typing-svg)
 
   <br/>
 
@@ -27,28 +27,28 @@
 
 ---
 
-## ⚡ Executive Summary & Research Manifesto
+## 📌 Research Statement & Academic Profile
 
-> *"Driven by the vision of transparent, interpretable, and scalable AI. My research focuses on developing trustworthy computational frameworks—ranging from Explainable AI (XAI) in medical diagnostic imaging to intelligent transport safety and cyber-fraud detection—backed by robust full-stack engineering."*
+> *"My research lies at the intersection of **Interpretable Machine Learning**, **Computer Vision**, and **Clinical Decision Support Systems**. I focus on designing trustworthy, Explainable AI (XAI) models that solve critical challenges in medical diagnostic imaging, intelligent transportation safety, and cyber-security—complemented by robust, production-grade software engineering."*
 
 <br/>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 AI in Healthcare & Medical Imaging</h3>
+      <h3>🔬 Medical Imaging & Trustworthy AI</h3>
       <ul>
-        <li><b>Renal Abnormalities Detection:</b> Hybrid Deep Learning & XAI (Grad-CAM/SHAP) for multi-class CT scan diagnosis (Normal, Cyst, Stone, Tumor).</li>
-        <li><b>Cardiovascular Diagnostics:</b> Interpretable AI frameworks for automated clinical decision support in heart disease detection.</li>
-        <li><b>Clinical Interpretability:</b> Fusing CNNs/Vision Transformers with heatmaps for trustworthy medical AI.</li>
+        <li><b>Renal CT Diagnostics:</b> Multi-class deep learning classification of CT images (Normal, Cyst, Stone, Tumor) with visual attribution heatmaps (Grad-CAM, SHAP).</li>
+        <li><b>Cardiovascular AI:</b> Interpretable clinical decision support systems for early risk assessment.</li>
+        <li><b>Algorithmic Transparency:</b> Fusing CNNs and Vision Transformers with clinical explainability.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Smart Systems & Cyber Security</h3>
+      <h3>💻 Applied AI & Systems Architecture</h3>
       <ul>
-        <li><b>Vehicle Accident Prevention:</b> Hybrid AI architectures engineered for heterogeneous traffic & road safety in Bangladesh.</li>
-        <li><b>Anti-Scam Intelligence:</b> Automated machine learning classification to combat online recruitment fraud (Taylor & Francis published).</li>
-        <li><b>Full-Stack Engineering:</b> Designing production-grade Web APIs, Django backend architectures, and modern UIs.</li>
+        <li><b>Intelligent Transportation (ITS):</b> Low-latency vision perception models for vehicle accident prevention in Bangladesh traffic.</li>
+        <li><b>Cyber-Security & Anti-Scam:</b> Empirical ML models for fraudulent job advertisement detection (Taylor & Francis published).</li>
+        <li><b>Full-Stack Engineering:</b> Enterprise-ready web platforms powered by Python, Django, FastAPI, and modern frontend frameworks.</li>
       </ul>
     </td>
   </tr>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔬 Featured Research Portfolio & Working Papers
+## 🎓 Academic Research & Peer-Reviewed Publications
 
 <br/>
 
@@ -67,12 +67,12 @@
       <p>
         <img src="https://img.shields.io/badge/Status-🟡_Active_Research-FFD700?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Medical_Imaging-FF007F?style=flat-square&logo=medical" />
-        <img src="https://img.shields.io/badge/Tech-Hybrid_DL_%2B_Grad--CAM_%2B_SHAP-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Methodology-Hybrid_DL_%2B_Grad--CAM_%2B_SHAP-00F0FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Modality-Renal_CT_Scans-7000FF?style=flat-square" />
       </p>
       <ul>
-        <li><b>Scope:</b> Automated classification of kidney CT scan images to detect 4 distinct conditions: <code>Normal</code>, <code>Cyst</code>, <code>Stone</code>, and <code>Tumor</code>.</li>
-        <li><b>Methodology:</b> Deep Convolutional Neural Networks integrated with <b>Explainable AI (XAI)</b> visual attribution maps to generate radiology-grade interpretable diagnostic heatmaps.</li>
+        <li><b>Abstract:</b> Developing an end-to-end computer-aided diagnosis (CAD) framework for renal CT scan evaluation, accurately categorizing tissue into <code>Normal</code>, <code>Cyst</code>, <code>Stone</code>, and <code>Tumor</code>.</li>
+        <li><b>Academic Contribution:</b> Incorporating Explainable AI (XAI) visual attribution maps to provide radiologists with transparent, verifiable diagnostic reasoning.</li>
       </ul>
     </td>
   </tr>
@@ -81,13 +81,13 @@
       <h3>🚗 2. A Hybrid AI-Based Architecture for Vehicle Safety and Accident Prevention in Bangladesh</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-🟡_Working_Paper-FF9800?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-Smart_Transportation-00E676?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Real--time_Accident_Prevention-FF3D00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-Intelligent_Transportation_Systems-00E676?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Accident_Prevention-FF3D00?style=flat-square" />
         <img src="https://img.shields.io/badge/Region-Bangladesh_Road_Safety-00BCD4?style=flat-square" />
       </p>
       <ul>
-        <li><b>Scope:</b> Designing a low-latency, hybrid AI architecture tailored for collision avoidance and driver risk assessment in complex road environments across Bangladesh.</li>
-        <li><b>Methodology:</b> Computer Vision perception pipelines, obstacle tracking algorithms, and real-time hazard notification systems.</li>
+        <li><b>Abstract:</b> Proposing a low-latency, hybrid AI perception model designed for real-time collision warning and driver risk evaluation within heterogeneous road environments.</li>
+        <li><b>Academic Contribution:</b> Integrating computer vision detection pipelines optimized for high-density, unstructured traffic conditions.</li>
       </ul>
     </td>
   </tr>
@@ -98,11 +98,11 @@
         <img src="https://img.shields.io/badge/Status-🟡_Working_Paper-FF9800?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Cardiovascular_AI-E91E63?style=flat-square" />
         <img src="https://img.shields.io/badge/Approach-Interpretable_AI-9C27B0?style=flat-square" />
-        <img src="https://img.shields.io/badge/System-Clinical_Decision_Support-2196F3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Application-Clinical_Decision_Support-2196F3?style=flat-square" />
       </p>
       <ul>
-        <li><b>Scope:</b> Developing an interpretable AI model for early diagnosis of cardiovascular conditions with clear feature importance attribution for clinicians.</li>
-        <li><b>Methodology:</b> Hybrid Machine Learning algorithms combined with feature extraction pipelines for high diagnostic accuracy and clinical transparency.</li>
+        <li><b>Abstract:</b> Designing an interpretable predictive framework for early cardiovascular disease detection utilizing ensemble machine learning and clinical risk factors.</li>
+        <li><b>Academic Contribution:</b> Providing quantitative feature attributions to enhance clinician trust in automated diagnostic recommendations.</li>
       </ul>
     </td>
   </tr>
@@ -112,11 +112,11 @@
       <p>
         <img src="https://img.shields.io/badge/Status-🟢_Accepted_%26_Published-00E676?style=flat-square" />
         <img src="https://img.shields.io/badge/Publisher-Taylor_%26_Francis_Book_Series-0A66C2?style=flat-square&logo=book" />
-        <img src="https://img.shields.io/badge/Conference-ECCT-00F0FF?style=flat-square&logo=google-scholar" />
+        <img src="https://img.shields.io/badge/Conference-ECCT_Conference-00F0FF?style=flat-square&logo=google-scholar" />
       </p>
       <ul>
-        <li><b>Scope:</b> Machine learning framework designed to detect fraudulent job postings and recruitment scams in Bangladesh datasets.</li>
-        <li><b>Outcome:</b> Presented at the <b>ECCT Conference</b> and published in a peer-reviewed <b>Taylor & Francis Book Series</b>.</li>
+        <li><b>Abstract:</b> Formulated machine learning predictive models to identify and mitigate fraudulent recruitment advertisements operating within Bangladesh.</li>
+        <li><b>Peer Review:</b> Peer-reviewed, presented at the <b>ECCT Conference</b>, and published in a <b>Taylor & Francis Book Series</b>.</li>
       </ul>
     </td>
   </tr>
@@ -124,12 +124,12 @@
     <td>
       <h3>🧠 5. Sentiment Analysis & Classification Optimization using Machine Learning</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-🟡_Submitted-FFC107?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-🟡_Under_Review-FFC107?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-NLP_%26_Text_Mining-7000FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-Python_%7C_Scikit--Learn-FFD700?style=flat-square" />
+        <img src="https://img.shields.io/badge/Method-Scikit--Learn_%7C_Feature_Engineering-FFD700?style=flat-square" />
       </p>
       <ul>
-        <li><b>Scope:</b> Optimization of text classification algorithms, feature engineering techniques, and hyperparameter tuning for sentiment extraction.</li>
+        <li><b>Abstract:</b> Investigating advanced natural language processing (NLP) pipelines, feature selection strategies, and model optimization techniques for multi-class sentiment extraction.</li>
       </ul>
     </td>
   </tr>
@@ -137,11 +137,11 @@
 
 ---
 
-## 🛠️ Technological Ecosystem & Skill Matrix
+## 🛠️ Technological Stack & Research Methodology
 
 <div align="center">
 
-### 🧠 Deep Learning, AI & Medical Vision
+### 🧠 Deep Learning, Medical Imaging & XAI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -152,7 +152,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### ⚙️ Backend Architecture & Database Systems
+### ⚙️ Software Engineering, APIs & Database Systems
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -171,7 +171,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧩 Core Languages & Developer Tools
+### 🧩 Core Languages & Developer Infrastructure
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -186,7 +186,7 @@
 
 ---
 
-## 📈 GitHub Analytics & Trophy Wall
+## 📈 Scholarly Activity & Engineering Metrics
 
 <div align="center">
 
@@ -219,11 +219,12 @@
 
 ---
 
-## 🤝 Open for Academic & Industrial Collaboration
+## 🤝 Academic & Research Collaboration
 
-- 🏥 **Medical AI & XAI:** Deep Learning models for CT/MRI image analysis and clinical decision support systems.
-- 🚗 **Smart Mobility Systems:** Computer vision and AI safety architectures for transport logistics.
-- 💻 **Full-Stack Engineering:** Open-source Web applications, APIs, and scalable backend platforms.
+I am actively open to research partnerships, co-authorship opportunities, and interdisciplinary engineering initiatives:
+- 🏥 **Medical AI & Clinical XAI:** Deep Learning models for CT/MRI image diagnostic pipelines & explainable heatmaps.
+- 🚗 **Intelligent Transportation Systems:** Computer vision architectures for road safety & vehicle perception.
+- 💻 **Software Engineering:** Production-ready backend systems, scalable Web APIs, and open-source computational tools.
 
 ---
 
