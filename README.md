@@ -9,7 +9,7 @@
   <br/>
 
   <p align="center">
-    <a href="https://mrt4r1kul1sl4m.github.io/Portfolio/" target="_blank">
+    <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/mrtarikulislam" target="_blank">
@@ -232,7 +232,7 @@ I am actively seeking high-impact opportunities in:
 
 <div align="center">
 
-  <a href="https://mrt4r1kul1sl4m.github.io/Portfolio/" target="_blank">
+  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-mrt4r1kul1sl4m.github.io-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mrtarikulislam" target="_blank">
