@@ -111,16 +111,16 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=mrt4r1kul1sl4m&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrt4r1kul1sl4m&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
 
   <br><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrt4r1kul1sl4m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&title_color=00F0FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrt4r1kul1sl4m&layout=compact&theme=tokyonight&hide=html,css&bg_color=0d1117&hide_border=true&title_color=00F0FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrt4r1kul1sl4m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrt4r1kul1sl4m&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrt4r1kul1sl4m&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrt4r1kul1sl4m&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
   <br><br>
 
