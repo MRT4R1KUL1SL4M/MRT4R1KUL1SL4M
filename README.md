@@ -1,53 +1,63 @@
+<div align="center">
+
 # Md. Tarikul Islam
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher;Machine+Learning+%26+Deep+Learning;Data+Science+Enthusiast;Exploring+AI+Through+Research+%26+Innovation" alt="Typing introduction" />
+### AI/ML Researcher | Machine Learning | Deep Learning | Data Science
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+Artificial+Intelligence;Machine+Learning+%26+Deep+Learning;Research-driven+%7C+Interdisciplinary;Building+knowledge+through+experimentation" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mrtarikulislam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:mrtarikulislamtarek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/mrtarikulislam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mrtarikulislamtarek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1F6FEB?style=flat-square" alt="AI"/>
-  <img src="https://img.shields.io/badge/Research-Machine%20Learning-238636?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Interest-Data%20Science-8957E5?style=flat-square" alt="Data Science"/>
+<p>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1F6FEB?style=flat-square" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Research-Machine%20Learning-238636?style=flat-square" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Interest-Data%20Science-8957E5?style=flat-square" alt="Data Science">
 </p>
+
+</div>
 
 ---
 
 ## About Me
 
-I am a Computer Science and Engineering student from **Dhaka International University**, with a growing focus on **Artificial Intelligence, Machine Learning, and Data Science**.
+I am a **Computer Science and Engineering student at Dhaka International University**, with a growing research focus on **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**.
 
-My journey began with programming and web development, where I developed a foundation in problem-solving and application development. Over time, my interests evolved toward AI/ML research, particularly exploring machine learning methods, deep learning architectures, and practical AI applications.
+My technical journey began with programming and **web development**, where I built a foundation in problem-solving and creating web-based applications. Over time, my interests expanded toward AI/ML research, where I explore machine learning methods, deep learning architectures, and data-driven approaches to practical problems.
 
-I enjoy investigating research problems, experimenting with computational approaches, and developing implementations that connect theoretical ideas with practical applications.
+I enjoy investigating research questions, experimenting with computational methods, and learning how ideas can be translated into useful implementations. My work spans independent exploration, academic projects, research manuscripts, and practical development.
 
-**Currently focused on:** AI/ML research, machine learning experimentation, and data-driven problem solving.
+**Current direction:** AI/ML research, machine learning experimentation, and data-driven problem solving.
 
 ---
 
 ## Research Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Accepted%20for%20Publication-01-238636?style=for-the-badge" alt="Accepted paper"/>
-  <img src="https://img.shields.io/badge/Under%20Review-01-9A6700?style=for-the-badge" alt="Under review"/>
-  <img src="https://img.shields.io/badge/Ongoing%20Research-03-1F6FEB?style=for-the-badge" alt="Ongoing research"/>
-</p>
+<div align="center">
+
+| Research status | Current count |
+|:--|:--:|
+| Accepted for publication | **1** |
+| Under review | **1** |
+| Ongoing research topics | **3** |
+| Academic research project | **1** |
+
+</div>
 
 ### Research Interests
 
-| Area | Topics |
-|---|---|
-| Artificial Intelligence | Machine Learning, Deep Learning |
-| Explainable AI | Interpretable and explainable models |
-| Data Science | Predictive modeling, data analysis |
-| Natural Language Processing | Sentiment analysis, text classification |
-| Computer Vision | Image analysis and classification |
-| Emerging Research | Ensemble learning, federated learning |
+- Artificial Intelligence, Machine Learning, and Deep Learning
+- Explainable and Interpretable AI (XAI)
+- Natural Language Processing and Sentiment Analysis
+- Computer Vision and Image Analysis
+- Ensemble Learning
+- Federated Learning
+- Data Science and Predictive Modeling
 
 ### Research & Publications
 
@@ -58,7 +68,7 @@ I enjoy investigating research problems, experimenting with computational approa
 
 - **Status:** Accepted for publication
 - **Publisher:** Taylor & Francis
-- **Publication:** Forthcoming
+- **Publication status:** Forthcoming; not yet published
 
 </details>
 
@@ -67,7 +77,7 @@ I enjoy investigating research problems, experimenting with computational approa
 
 **An Empirical Framework for Real-Time Sentiment Analysis Using Soft Voting Ensemble Learning with Web-Based Deployment**
 
-- **Status:** Submitted — Under Review
+- **Status:** Submitted and under review
 - **Research focus:** Sentiment analysis, soft voting ensemble learning, and web-based deployment
 
 </details>
@@ -77,7 +87,7 @@ I enjoy investigating research problems, experimenting with computational approa
 
 **A Hybrid AI-Based Architecture for Vehicle Safety and Accident Prevention in Bangladesh**
 
-- Research focus: AI-based approaches to vehicle safety and accident prevention.
+- Research focus: Exploring AI-based approaches for vehicle safety and accident prevention.
 
 **Automated Detection and Classification of Renal Abnormalities using a Hybrid Deep Learning Framework and XAI**
 
@@ -90,12 +100,12 @@ I enjoy investigating research problems, experimenting with computational approa
 </details>
 
 <details>
-<summary><strong>Academic Research Project</strong></summary>
+<summary><strong>Academic Project</strong></summary>
 
 **An Interpretable Hybrid Artificial Intelligence Framework for Automated Cardiovascular Disease Diagnosis**
 
 - **Context:** University coursework
-- Research focus: Interpretable AI and hybrid machine learning approaches.
+- **Focus:** Interpretable AI and hybrid machine learning approaches
 
 </details>
 
@@ -105,124 +115,112 @@ I enjoy investigating research problems, experimenting with computational approa
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C, C++"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C, and C++">
 </p>
 
 ### AI, Machine Learning & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-412991?style=flat-square" alt="AI"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-0078D4?style=flat-square" alt="ML"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-412991?style=flat-square" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-0078D4?style=flat-square" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, and Bootstrap">
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,mysql,postgres" alt="Django, Flask, MySQL, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,mysql,postgres" alt="Django, Flask, MySQL, and PostgreSQL">
 </p>
 
 ### Tools & Computer Science Fundamentals
 <p>
-  <img src="https://skillicons.dev/icons?i=git,bash" alt="Git and Bash"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-555555?style=flat-square" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=git,bash" alt="Git and Bash">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-555555?style=flat-square" alt="Data Structures and Algorithms">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
 ---
 
 ## Featured Projects
 
-A selection of projects from my research exploration, independent development, academic work, and programming journey.
+My repositories represent different kinds of work: research exploration, independent projects, academic work, web development, and programming practice.
 
-| Project | Description | Category |
-|---|---|---|
-| [SentimentAnalysis](https://github.com/MRT4R1KUL1SL4M/SentimentAnalysis) | Sentiment analysis project and related implementation work. | AI / ML |
-| [Origins-Bangladesh](https://github.com/MRT4R1KUL1SL4M/Origins-Bangladesh) | A Flask-based application using MySQL. | Web Development |
-| [MessManager](https://github.com/MRT4R1KUL1SL4M/MessManager) | A mess management application built with Node.js and SQLite. | Independent Project |
-| [BanglaC-Compiler](https://github.com/MRT4R1KUL1SL4M/BanglaC-Compiler) | A compiler project exploring Bengali-language programming syntax with Flex and Bison. | Academic / Programming |
-| [BD-Heritage-Map](https://github.com/MRT4R1KUL1SL4M/BD-Heritage-Map) | An interactive map highlighting Bangladesh's GI-certified products. | Independent Project |
+| Project | Overview | Category |
+|:--|:--|:--|
+| [SentimentAnalysis](https://github.com/MRT4R1KUL1SL4M/SentimentAnalysis) | Repository for sentiment analysis and related AI/ML implementation work. | AI / ML |
+| [BD-Heritage-Map](https://github.com/MRT4R1KUL1SL4M/BD-Heritage-Map) | Interactive map highlighting Bangladesh's Geographical Indication (GI)-certified products. | Independent |
+| [HandmadeHeritage](https://github.com/MRT4R1KUL1SL4M/HandmadeHeritage) | E-commerce web project for showcasing handmade products from Bangladesh. | Independent |
+| [LostAndFound](https://github.com/MRT4R1KUL1SL4M/LostAndFound) | Campus-based web application concept for reporting lost items and searching found items. | Web Development |
+| [Origins-Bangladesh](https://github.com/MRT4R1KUL1SL4M/Origins-Bangladesh) | Flask application using MySQL for backend and database functionality. | Web Development |
+| [MessManager](https://github.com/MRT4R1KUL1SL4M/MessManager) | Mess management application built with Node.js and SQLite. | Independent |
+| [BanglaC-Compiler](https://github.com/MRT4R1KUL1SL4M/BanglaC-Compiler) | Compiler project exploring Bengali-language programming syntax with Flex and Bison. | Academic / Programming |
 | [MyPortfolio](https://github.com/MRT4R1KUL1SL4M/MyPortfolio) | Personal portfolio website built with React and TypeScript. | Web Development |
 
-*Repositories represent different types and stages of work. Please refer to each repository for its implementation details, documentation, and project context.*
+*Project descriptions are concise summaries. Visit each repository for its implementation, documentation, and current feature set.*
 
 ---
 
 ## My Development Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Programming%20Foundations-30363D?style=for-the-badge" alt="Programming foundations"/>
-  <img src="https://img.shields.io/badge/02-Web%20Development-0969DA?style=for-the-badge" alt="Web development"/>
-  <img src="https://img.shields.io/badge/03-AI%2FML%20Research-238636?style=for-the-badge" alt="AI ML research"/>
-</p>
+<div align="center">
 
-I started by learning programming and building web-based applications. That experience helped me develop practical coding skills and an understanding of how applications are designed and implemented.
+**Programming Foundations** &nbsp; → &nbsp; **Web Development** &nbsp; → &nbsp; **AI/ML Research**
 
-My current direction is centered on AI/ML, data science, and research-oriented problem solving, while continuing to build on my earlier development experience.
+</div>
+
+I started by learning programming and building web-based applications. This experience helped me develop practical coding skills and understand how applications are designed and implemented.
+
+My current direction is centered on AI/ML, data science, and research-oriented problem solving, while continuing to build on my earlier web development experience.
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=MRT4R1KUL1SL4M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MRT4R1KUL1SL4M&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="170"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRT4R1KUL1SL4M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRT4R1KUL1SL4M&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
+
+</div>
 
 ### Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MRT4R1KUL1SL4M&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRT4R1KUL1SL4M&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+</div>
 
 ### Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MRT4R1KUL1SL4M/MRT4R1KUL1SL4M/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRT4R1KUL1SL4M/MRT4R1KUL1SL4M/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRT4R1KUL1SL4M/MRT4R1KUL1SL4M/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MRT4R1KUL1SL4M/MRT4R1KUL1SL4M/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 ## Education
 
-**Bachelor of Science in Computer Science and Engineering (BSc in CSE)**
-
+**Bachelor of Science in Computer Science and Engineering (BSc in CSE)**  
 Dhaka International University
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/mrtarikulislam">
-    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Tarikul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:mrtarikulislamtarek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mrtarikulislam/"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tarikul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mrtarikulislamtarek@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-<p align="center">
+<div align="center">
   <i>Exploring ideas, conducting research, and learning through building.</i>
-</p>
+</div>
