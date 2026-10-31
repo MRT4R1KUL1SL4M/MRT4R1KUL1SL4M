@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Computer Science and Engineering student/graduate from **Dhaka International University**, with a growing focus on **Artificial Intelligence, Machine Learning, and Data Science**.
+I am a Computer Science and Engineering student from **Dhaka International University**, with a growing focus on **Artificial Intelligence, Machine Learning, and Data Science**.
 
 My journey began with programming and web development, where I developed a foundation in problem-solving and application development. Over time, my interests evolved toward AI/ML research, particularly exploring machine learning methods, deep learning architectures, and practical AI applications.
 
@@ -181,7 +181,11 @@ My current direction is centered on AI/ML, data science, and research-oriented p
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRT4R1KUL1SL4M&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MRT4R1KUL1SL4M&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
 ### Contribution Snake
