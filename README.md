@@ -183,8 +183,20 @@ My current direction is centered on AI/ML, data science, and research-oriented p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRT4R1KUL1SL4M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRT4R1KUL1SL4M&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=MRT4R1KUL1SL4M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MRT4R1KUL1SL4M&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="170"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 </div>
 
