@@ -1,139 +1,219 @@
-<div align="center">
+# Md. Tarikul Islam
 
-  <!-- Minimalist Premium Header -->
-  <br>
-  <h1>🔬 Md. Tarikul Islam</h1>
-  <h3>AI Researcher • Computer Vision • Medical Imaging • Full-Stack Developer</h3>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=00F0FF&center=true&vcenter=true&random=false&width=600&height=40&lines=Researching+Trustworthy+Medical+AI;Building+Intelligent+Software+Systems;Exploring+Explainable+AI+(XAI);Developing+Scalable+Architectures;Bridging+Research+and+Engineering)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher;Machine+Learning+%26+Deep+Learning;Data+Science+Enthusiast;Exploring+AI+Through+Research+%26+Innovation" alt="Typing introduction" />
+</p>
 
-  <br>
+<p align="center">
+  <a href="https://linkedin.com/in/mrtarikulislam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:mrtarikulislamtarek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-  <!-- Sleek Social Links -->
-  <p align="center">
-    <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/mrtarikulislam"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-    <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4" alt="Google Scholar" /></a>
-    <a href="mailto:mrtarikulislamtarek@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1F6FEB?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/Research-Machine%20Learning-238636?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Interest-Data%20Science-8957E5?style=flat-square" alt="Data Science"/>
+</p>
 
-</div>
+---
 
-<br><br>
+## About Me
 
-<!-- About & Interests Section (Side by Side) -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
-      <h2 style="border-bottom: 2px solid #30363D;">📌 Executive Summary</h2>
-      <p><i>"Research-driven. Engineer-minded. Always learning."</i></p>
-      <p>I am an AI researcher and software developer specializing in Computer Vision, Medical Image Analysis, and Explainable AI (XAI). My journey bridged the gap between robust software engineering and advanced machine learning research.</p>
-      <p>Currently, I focus on building trustworthy, transparent, and clinically interpretable AI systems that solve real-world problems.</p>
-    </td>
-    <td width="40%" valign="top" style="border: none; padding-left: 20px;">
-      <h2 style="border-bottom: 2px solid #30363D;">🎯 Core Focus Areas</h2>
-      <ul>
-        <li><b>Medical AI:</b> Diagnostics & Imaging</li>
-        <li><b>Computer Vision:</b> Object Detection & ITS</li>
-        <li><b>Trustworthy AI:</b> Explainable AI (XAI)</li>
-        <li><b>Deep Learning:</b> CNNs, ViTs & Hybrids</li>
-        <li><b>Systems:</b> Full-Stack Architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I am a Computer Science and Engineering student/graduate from **Dhaka International University**, with a growing focus on **Artificial Intelligence, Machine Learning, and Data Science**.
 
-<br>
+My journey began with programming and web development, where I developed a foundation in problem-solving and application development. Over time, my interests evolved toward AI/ML research, particularly exploring machine learning methods, deep learning architectures, and practical AI applications.
 
-## 📖 Research Portfolio & Publications
+I enjoy investigating research problems, experimenting with computational approaches, and developing implementations that connect theoretical ideas with practical applications.
 
-> **1. Automated Detection and Classification of Renal Abnormalities using a Hybrid Deep Learning Framework and XAI**
-> <img src="https://img.shields.io/badge/Status-Active_Research-FFD700?style=flat-square" />
-> <br><i>Developing a hybrid deep learning framework for automated renal CT image classification using Explainable AI (Grad-CAM and SHAP) to improve model transparency and clinical interpretability.</i>
+**Currently focused on:** AI/ML research, machine learning experimentation, and data-driven problem solving.
 
-<br>
+---
 
-> **2. A Hybrid AI-Based Architecture for Vehicle Safety and Accident Prevention in Bangladesh**
-> <img src="https://img.shields.io/badge/Status-Working_Paper-FF9800?style=flat-square" />
-> <br><i>Developing a computer vision-based intelligent transportation system (ITS) for real-time vehicle and hazard detection under complex, unstructured road conditions in Bangladesh.</i>
+## Research Dashboard
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Accepted%20for%20Publication-01-238636?style=for-the-badge" alt="Accepted paper"/>
+  <img src="https://img.shields.io/badge/Under%20Review-01-9A6700?style=for-the-badge" alt="Under review"/>
+  <img src="https://img.shields.io/badge/Ongoing%20Research-03-1F6FEB?style=for-the-badge" alt="Ongoing research"/>
+</p>
 
-> **3. An Interpretable Hybrid Artificial Intelligence Framework for Automated Cardiovascular Disease Diagnosis**
-> <img src="https://img.shields.io/badge/Status-Working_Paper-FF9800?style=flat-square" />
-> <br><i>Architecting an interpretable clinical decision support system (CDSS) for early cardiovascular risk prediction, focusing on quantitative feature importance to verify clinical guidelines.</i>
+### Research Interests
 
-<br>
+| Area | Topics |
+|---|---|
+| Artificial Intelligence | Machine Learning, Deep Learning |
+| Explainable AI | Interpretable and explainable models |
+| Data Science | Predictive modeling, data analysis |
+| Natural Language Processing | Sentiment analysis, text classification |
+| Computer Vision | Image analysis and classification |
+| Emerging Research | Ensemble learning, federated learning |
 
-> **4. Automated Detection of Fake Job Advertisements in Bangladesh via Machine Learning Approaches**
-> <img src="https://img.shields.io/badge/Status-Published_(Taylor_%26_Francis)-00E676?style=flat-square" />
-> <br><i>Developed machine learning models for detecting fraudulent online job advertisements. Presented at the ECCT Conference and published in an international Taylor & Francis book series.</i>
+### Research & Publications
 
-<br>
+<details open>
+<summary><strong>Accepted for Publication</strong></summary>
 
-> **5. Sentiment Analysis & Classification Optimization using Machine Learning**
-> <img src="https://img.shields.io/badge/Status-Under_Review-38B2AC?style=flat-square" />
-> <br><i>Evaluated text preprocessing pipelines and hyperparameter tuning strategies to optimize multi-class sentiment classification performance.</i>
+**Automated Detection of Fake Job Advertisements in Bangladesh via Machine Learning Approaches**
 
-<br>
+- **Status:** Accepted for publication
+- **Publisher:** Taylor & Francis
+- **Publication:** Forthcoming
 
-## 🛠️ Technological Arsenal
+</details>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="33%" valign="top" align="center" style="border: none;">
-      <h3>🧠 AI & ML Research</h3>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    </td>
-    <td width="33%" valign="top" align="center" style="border: none;">
-      <h3>💻 Languages & Web</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td width="33%" valign="top" align="center" style="border: none;">
-      <h3>🗄️ Tools, DB & Core</h3>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><strong>Under Review</strong></summary>
 
-<br><br>
+**An Empirical Framework for Real-Time Sentiment Analysis Using Soft Voting Ensemble Learning with Web-Based Deployment**
 
-## 📊 Analytics & Impact
+- **Status:** Submitted — Under Review
+- **Research focus:** Sentiment analysis, soft voting ensemble learning, and web-based deployment
 
-<div align="center">
+</details>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=mrt4r1kul1sl4m&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
+<details>
+<summary><strong>Ongoing Research</strong></summary>
 
-  <br><br>
+**A Hybrid AI-Based Architecture for Vehicle Safety and Accident Prevention in Bangladesh**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mrt4r1kul1sl4m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrt4r1kul1sl4m&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" />
+- Research focus: AI-based approaches to vehicle safety and accident prevention.
 
-  <br><br>
+**Automated Detection and Classification of Renal Abnormalities using a Hybrid Deep Learning Framework and XAI**
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrt4r1kul1sl4m&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+- Research focus: Hybrid deep learning and explainable artificial intelligence.
 
-  <br><br>
+**Decentralized Federated Learning for Brain Tumor Detection using Blockchain Technology**
 
-  <img src="https://komarev.com/ghpvc/?username=mrt4r1kul1sl4m&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+- Research focus: Federated learning, deep learning, and blockchain-based decentralization.
 
-</div>
+</details>
+
+<details>
+<summary><strong>Academic Research Project</strong></summary>
+
+**An Interpretable Hybrid Artificial Intelligence Framework for Automated Cardiovascular Disease Diagnosis**
+
+- **Context:** University coursework
+- Research focus: Interpretable AI and hybrid machine learning approaches.
+
+</details>
+
+---
+
+## Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C, C++"/>
+</p>
+
+### AI, Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-412991?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-0078D4?style=flat-square" alt="ML"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,mysql,postgres" alt="Django, Flask, MySQL, PostgreSQL"/>
+</p>
+
+### Tools & Computer Science Fundamentals
+<p>
+  <img src="https://skillicons.dev/icons?i=git,bash" alt="Git and Bash"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-555555?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+---
+
+## Featured Projects
+
+A selection of projects from my research exploration, independent development, academic work, and programming journey.
+
+| Project | Description | Category |
+|---|---|---|
+| [SentimentAnalysis](https://github.com/MRT4R1KUL1SL4M/SentimentAnalysis) | Sentiment analysis project and related implementation work. | AI / ML |
+| [Origins-Bangladesh](https://github.com/MRT4R1KUL1SL4M/Origins-Bangladesh) | A Flask-based application using MySQL. | Web Development |
+| [MessManager](https://github.com/MRT4R1KUL1SL4M/MessManager) | A mess management application built with Node.js and SQLite. | Independent Project |
+| [BanglaC-Compiler](https://github.com/MRT4R1KUL1SL4M/BanglaC-Compiler) | A compiler project exploring Bengali-language programming syntax with Flex and Bison. | Academic / Programming |
+| [BD-Heritage-Map](https://github.com/MRT4R1KUL1SL4M/BD-Heritage-Map) | An interactive map highlighting Bangladesh's GI-certified products. | Independent Project |
+| [MyPortfolio](https://github.com/MRT4R1KUL1SL4M/MyPortfolio) | Personal portfolio website built with React and TypeScript. | Web Development |
+
+*Repositories represent different types and stages of work. Please refer to each repository for its implementation details, documentation, and project context.*
+
+---
+
+## My Development Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Programming%20Foundations-30363D?style=for-the-badge" alt="Programming foundations"/>
+  <img src="https://img.shields.io/badge/02-Web%20Development-0969DA?style=for-the-badge" alt="Web development"/>
+  <img src="https://img.shields.io/badge/03-AI%2FML%20Research-238636?style=for-the-badge" alt="AI ML research"/>
+</p>
+
+I started by learning programming and building web-based applications. That experience helped me develop practical coding skills and an understanding of how applications are designed and implemented.
+
+My current direction is centered on AI/ML, data science, and research-oriented problem solving, while continuing to build on my earlier development experience.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MRT4R1KUL1SL4M&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRT4R1KUL1SL4M&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRT4R1KUL1SL4M&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRT4R1KUL1SL4M&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph"/>
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRT4R1KUL1SL4M/MRT4R1KUL1SL4M/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science and Engineering (BSc in CSE)**
+
+Dhaka International University
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mrtarikulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Tarikul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mrt4r1kul1sl4m.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mrtarikulislamtarek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Exploring ideas, conducting research, and learning through building.</i>
+</p>
